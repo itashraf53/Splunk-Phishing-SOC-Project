@@ -1,1 +1,29 @@
-
+From: it-support@micros0ft.com
+To: jane.doe@company.com
+Subject: URGENT: Password Reset Required Immediately
+Attachment: Password_Reset.exe
+URL: http://micros0ft-verify.com/reset
+---
+From: billing@company-invoices.com
+To: john.smith@company.com
+Subject: Invoice #INV-2025-001 - Payment Required
+Attachment: Invoice.pdf.exe
+URL: http://malicious-site.com/invoice
+---
+From: hr@company.com
+To: all-staff@company.com
+Subject: Updated HR Policy - Action Required
+Attachment: HR_Policy.ps1
+URL: http://internal-hr-portal.com/policy
+---
+From: newsletter@legit-news.com
+To: jane.doe@company.com
+Subject: Weekly Digest
+Attachment: none
+URL: http://legit-news.com/digest
+---
+From: security@paypa1-alerts.com
+To: john.smith@company.com
+Subject: Verify Your Account Now - Urgent Action
+Attachment: Verify_Account.hta
+URL: http://paypa1-login-verify.com/account
